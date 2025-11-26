@@ -1,0 +1,68 @@
+project:
+  type: website
+
+website:
+  page-navigation: true
+  title: "STA HOUSE Spring 2026"
+  description: "Homepage for Statistical Methods in Research at Duke University, Spring 2026."
+  site-url: "https://sta-house-s26.github.io/"
+
+  open-graph: true
+
+  sidebar:
+    background: "#FFFB71"
+    logo: "img/fake-logo.png"
+    pinned: true
+    align: center
+    tools:
+      - icon: code-square
+        href: https://cmgr.oit.duke.edu/containers
+        text: "RStudio Containers"
+      - icon: megaphone
+        href: https://go.canvas.duke.edu/
+        text: "Canvas"
+      - icon: people
+        href: https://edstem.org/us/courses/89284/discussion
+        text: "Ed Discussion"
+
+    style: docked
+    search: true
+    collapse-level: 1
+    contents:
+      - section: "Syllabus"
+        contents:
+          - href: syllabus/syllabus-overview.qmd
+            text: Overview
+          - href: syllabus/syllabus-team.qmd
+            text: Teaching team
+          - href: syllabus/syllabus-materials.qmd
+            text: Materials
+          - href: syllabus/syllabus-assignments.qmd
+            text: Assignments and grading
+          - href: syllabus/syllabus-policies.qmd
+            text: Policies
+          - href: syllabus/syllabus-resources.qmd
+            text: University resources
+          - href: index.qmd
+            text: Schedule
+            
+  page-footer:
+    right: 'This page is built with [Quarto](https://quarto.org/).'
+    left: "&copy; Copyright 2025 Liane Ma, Cooper Ruffing, John Zito"
+    background: "#FFFB71"
+
+format: 
+  html:
+    mainfont: Atkinson Hyperlegible
+    highlight-style: a11y-light
+
+theme:
+  light: [cosmo, style/sta199.scss]
+linkcolor: "#798b93"
+toc: true
+code-copy: hover
+code-link: true
+code-overflow: wrap
+
+execute:
+  freeze: auto

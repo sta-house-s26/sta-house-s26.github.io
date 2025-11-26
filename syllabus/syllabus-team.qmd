@@ -1,0 +1,12 @@
+---
+title: "Teaching team"
+editor: 
+  mode: source
+---
+
+| Mug                       | Name          | Role          | Office Hours                   |
+|----------|--------------------------------|------------------------|--------|
+| ![](images/lm.png){.circ} | Ma, Liane     | Brains        | Will we even have these?   |
+| ![](images/cr.jpeg){.circ} | Ruffing, Cooper     | Brains        | Will we even have these?   |
+| ![](images/jz.jpg){.circ} | Zito, John    | Beauty        | Will we even have these?     |
+: {tbl-colwidths="[20,20,20,40]"}
