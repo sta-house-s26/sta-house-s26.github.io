@@ -1,7 +1,7 @@
-index with the google sheet
-yml file 
-resources for pdfs and whatever 
-color 
-hex 
-building it by hand
-style - no clue about any of this
+- This template is stripped down from what I use in [STA 240](https://github.com/sta240-f25/sta240-f25.github.io), which in turn is ripped straight from [MCR's stuff](https://github.com/sta199-f25/sta199-f25.github.io). All that source code is public, so take a look for inspo;
+- `index.qmd` is the homepage and it contains the table with the course schedule. This table is pulled in from a Google sheet and then formatted with some admittedly opaque tidy code. You'll figure it out;
+- `_quarto.yml` is, like, the brains of the operation. All the main settings and site organization and formatting are in there;
+  - The `background` bit under `sidebar` and `page-footer` governs the color. 
+- I do everything through RStudio. I load the website repo in as a project just like we do in 199, and I commit push all my changes. When I want to re-build the site, I go to the **Terminal** and run `quarto publish gh-pages`. All the quarto files are then rendered locally on your machine, and the resulting html stuff is sent to GitHub for hosting. You can read [here](https://quarto.org/docs/publishing/github-pages.html#publish-command) for more details. I have configured everything for you and the site is currently live, so unless you break something horribly, the only thing you have to do is commit-push changes on the main branch and then run that one command in the Terminal. 
+- the `style/` directory has stuff in it that I take straight from MCR and have modified only a tiny bit. I have no clue what `.scss` is, and I don't really understand the syntax inside. I have zero interest in these things, but if you want to play, knock yourself out.
+
