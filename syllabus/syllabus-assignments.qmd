@@ -37,7 +37,7 @@ Each class (outside of the first one) will involve discussion of several papers 
 This doesn't mean that if you don't speak every class you will get a 0. Non-zero variance is expected! (If you don't know what that means, hopefully you'll learn during this course.)
 :::
 
-## Midterm Paper
+## Midterm Paper (25%)
 
 By that point in the semester, we’ve reviewed many fundamental concepts and models in statistics. Although we still have more to cover, it’s important to reflect on and analyze some statistics on your own, and a write-up will help us accomplish this. 
 

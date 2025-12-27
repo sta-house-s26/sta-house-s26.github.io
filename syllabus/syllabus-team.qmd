@@ -6,7 +6,7 @@ editor:
 
 | Mug                       | Name          | Role          |
 |----------|--------------------------------|------------------------|
-| ![](images/lm.png){.circ} | Ma, Liane     | Brains        | 
-| ![](images/cr.jpeg){.circ} | Ruffing, Cooper     | Brains        |
-| ![](images/jz.jpg){.circ} | Zito, John    | Beauty        |
+| ![](images/lm.png){.circ} | Ma, Liane     | Instructor        | 
+| ![](images/cr.jpeg){.circ} | Ruffing, Cooper     | Instructor        |
+| ![](images/jz.jpg){.circ} | Zito, John    | Course Advisor and Instructor        |
 : {tbl-colwidths="[20,20,20,40]"}

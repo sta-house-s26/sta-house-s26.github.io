@@ -6,7 +6,7 @@ title: "Course materials"
 
 You are not required to purchase a textbook for this class. 
 
-In the **PREPARE** column of the [course schedule](https://sta240-f25.github.io/), we will note which papers are reading for next class.
+In the **PREPARE** column of the [course schedule](https://sta-house-s26.github.io/), we will note which papers are reading for next class.
 
 ## Technology
 

@@ -14,38 +14,35 @@ Having said all of that, you should not be crassly handing your solutions to oth
 
 There are at least two reasons you might seek outside resources:
 
--   ✅ **Extra practice or alternative instruction**: Go crazy. Knock yourself out. Have a ball. The internet is saturated with good (and horrible) resources for learning this material, so if you find something that really resonates with you, have at it;
--   ❌ **Doing the work for you**: If you ask a language model to generate one, and you copy it down and submit it as your own work, that is plagiarism. If we detect it, you will earn a zero for that part of your write-up.
+- *Extra practice or alternative instruction**: Go crazy. Knock yourself out. Have a ball. The internet is saturated with good (and horrible) resources for learning this material, so if you find something that really resonates with you, have at it;
+-  *Doing the work for you**: If you ask a language model to generate a summary, and you copy it down and submit it as your own work, that is plagiarism. If we detect it, you will earn a zero for that part of your write-up.
 
-"[Using ChatGPT to complete assignments is like bringing a forklift into the weight room; you will never improve your cognitive fitness that way](https://www.newyorker.com/culture/the-weekend-essay/why-ai-isnt-going-to-make-art)." Furthermore, 60% of your final course grade is determined by your performance on old school, no-tech exams. As such, outsourcing all of your *thinking* to an AI will probably end in humiliating disaster. To avoid this, I suggest you abstain from using language models to do the problems for you.
+"[Using ChatGPT to complete assignments is like bringing a forklift into the weight room; you will never improve your cognitive fitness that way](https://www.newyorker.com/culture/the-weekend-essay/why-ai-isnt-going-to-make-art)." Furthermore, this course is a half-credit, pass-fail course purely for your own interest. As such, outsourcing all of your *thinking* to an AI will probably end in this entire enterprise being a complete waste of time and energy. To avoid this, I suggest you abstain from using language models to do the reading/thinking for you.
 
 ## Communication
 
-If you wish to ask content-related questions in writing, please do not do so via e-mail. Instead, please use the course discussion forum [Ed Discussion](https://edstem.org/us/courses/80868/discussion). That way all members of the teaching team can see your question, and all students can benefit from the ensuing discussion. You are also encouraged to answer one another’s questions.
+If you wish to ask content-related questions in writing, please do not do so via e-mail. Instead, please use the course discussion forum [Ed Discussion](https://edstem.org/us/courses/89284/discussion). That way all members of the teaching team can see your question, and all students can benefit from the ensuing discussion. You are also encouraged to answer one another’s questions.
 
 If you have questions about personal matters that may not be appropriate for the public course forum (e.g. illness, accommodations, etc), then please e-mail the instructor directly (john.zito\@duke.edu).
 
-::: callout-note
-You can ask questions anonymously on Ed. The teaching team will still know your identity, but your peers will not.
-:::
 
 ## Late work and extensions
 
-No late work will be accepted unless you request an extension in advance by e-mailing the instructor directly (john.zito\@duke.edu). All reasonable requests will be entertained, but extensions will not be long.
+No late work will be accepted unless you request an extension in advance by e-mailing the instructors directly (cooper.ruffing\@duke.edu, liane.ma\@duke.edu, and john.zito\@duke.edu). All reasonable requests will be entertained, but extensions will not be long.
 
 ## Regrade requests
 
-If you receive a graded assignment back, and you believe that some part of it was graded incorrectly, you may dispute the grade by submitting a [regrade request](https://guides.gradescope.com/hc/en-us/articles/21854736042253-Submitting-a-Regrade-Request) in Gradescope. JZ is the sole reviewer of these. Note the following:
+If you receive a graded assignment back, and you believe that some part of it was graded incorrectly, you may dispute the grade by emailing Dr. Zito, who is the sole reviewer of these. Note the following:
 
 -   You have one week after you receive a grade to submit a regrade request;
 -   You should submit separate regrade requests for each question you wish to dispute, not a single catch-all request;
 -   Requests will be considered if there was an error in the grade calculation or if a correct answer was mistakenly marked as incorrect;
 -   Requests to dispute the number of points deducted for an incorrect response will not be considered;
--   **No grades will be changed after the final exam has been administered on Friday December 12**.
+-   **No grades will be changed after the final class period has been occurred on Monday, April 20**.
 
 ## Attendance
 
-Live your life. Attendance is not strictly required for any of the class meetings. The responsibility lies with us to make class meetings sufficiently engaging and informative that you choose to attend. Having said that, success in this class and regular attendance are probably highly positively correlated. Furthermore, while lab attendance is not required, regular attendance is probably the path of least resistance to earning full credit for the lab component of your final grade. The labs are designed so that they can be completed in one sitting more or less, and they are due at midnight the same day. So show up to lab, bang it out, and move on with your life.
+Duke requires students to attend at least 11 house course meetings. We hope you'll show up for all 14!
 
 ## Accommodations
 
@@ -61,7 +58,7 @@ Regardless of course delivery format, it is the responsibility of all students t
 
 Students can direct any questions or concerns regarding academic integrity to the Office of Student Conduct and Community Standards at `conduct@duke.edu` and can access the DCS guide at <https://dukecommunitystandard.students.duke.edu/>.
 
-In STA 240 specifically...
+In House Course 59-11 specifically...
 
 -   If a conduct violation results in a zero on a lab or problem set, that zero will not be dropped;
 -   If a conduct violation results in a zero on a midterm, that zero will not be replaced with your final exam score;
