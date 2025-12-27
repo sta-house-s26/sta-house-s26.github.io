@@ -1,197 +1,10 @@
 [
   {
-    "objectID": "syllabus/syllabus-overview.html",
-    "href": "syllabus/syllabus-overview.html",
-    "title": "Course overview",
-    "section": "",
-    "text": "This is a course on the mathematics of probability and statistics. In probability, we describe the distribution of a random phenomenon and then study how the realizations of that phenomenon typically behave. In statistics, we do the reverse; we observe realizations of a random phenomenon with unknown distribution, and then use the data to figure out what the distribution is. We will spend twelve weeks on the first, and then three weeks on the second. Topics include set theory, probability spaces, counting methods, conditional probability, discrete and (absolutely) continuous random variables, transformations of random variables, (pseudo)random number generation, bivariate distributions, concentration inequalities, limit theorems, maximum likelihood estimation, and Bayesian inference with conjugate priors.\nAside from the concrete topics, the course emphasizes four generic intellectual themes:\n\nStudents in this class will improve their mathematical maturity. They will deepen their experience with all of the main ideas and techniques of univariate calculus, they will encounter topics like set theory and combinatorics, which may be new to them, and they will get a taste of rigorous mathematical proof;\nProbability and statistics weasel their way into pretty much everything these days, and students will study a wide variety of famous and obscure applications coming from the natural and social sciences, technology and industry, and even arts and culture;\nProbability and statistics are often counterintuitive, and humans frequently make silly and harmful mistakes in reasoning. Students will use their mathematical knowledge to identify and critique these errors…and hopefully avoid them themselves;\nThis is a course about doing the math, but in the modern era, this has a symbiotic relationship with computer simulation. Simulation is used both to verify and probe mathematical results, as well as to substitute for them when a proof remains beyond the frontier. Students will learn the basics of the R programming language and use it to simulate probabilistic environments and reinforce their mathematical reasoning.\n\nPrerequisites: single-variable calculus.",
-    "crumbs": [
-      "Syllabus",
-      "Overview"
-    ]
-  },
-  {
-    "objectID": "syllabus/syllabus-overview.html#description",
-    "href": "syllabus/syllabus-overview.html#description",
-    "title": "Course overview",
-    "section": "",
-    "text": "This is a course on the mathematics of probability and statistics. In probability, we describe the distribution of a random phenomenon and then study how the realizations of that phenomenon typically behave. In statistics, we do the reverse; we observe realizations of a random phenomenon with unknown distribution, and then use the data to figure out what the distribution is. We will spend twelve weeks on the first, and then three weeks on the second. Topics include set theory, probability spaces, counting methods, conditional probability, discrete and (absolutely) continuous random variables, transformations of random variables, (pseudo)random number generation, bivariate distributions, concentration inequalities, limit theorems, maximum likelihood estimation, and Bayesian inference with conjugate priors.\nAside from the concrete topics, the course emphasizes four generic intellectual themes:\n\nStudents in this class will improve their mathematical maturity. They will deepen their experience with all of the main ideas and techniques of univariate calculus, they will encounter topics like set theory and combinatorics, which may be new to them, and they will get a taste of rigorous mathematical proof;\nProbability and statistics weasel their way into pretty much everything these days, and students will study a wide variety of famous and obscure applications coming from the natural and social sciences, technology and industry, and even arts and culture;\nProbability and statistics are often counterintuitive, and humans frequently make silly and harmful mistakes in reasoning. Students will use their mathematical knowledge to identify and critique these errors…and hopefully avoid them themselves;\nThis is a course about doing the math, but in the modern era, this has a symbiotic relationship with computer simulation. Simulation is used both to verify and probe mathematical results, as well as to substitute for them when a proof remains beyond the frontier. Students will learn the basics of the R programming language and use it to simulate probabilistic environments and reinforce their mathematical reasoning.\n\nPrerequisites: single-variable calculus.",
-    "crumbs": [
-      "Syllabus",
-      "Overview"
-    ]
-  },
-  {
-    "objectID": "syllabus/syllabus-overview.html#meetings",
-    "href": "syllabus/syllabus-overview.html#meetings",
-    "title": "Course overview",
-    "section": "Meetings",
-    "text": "Meetings\n\n\n\n\n\n\n\n\n\nMeeting\nLocation\nTime\nStaff\n\n\n\n\nLectures\nOld Chem 116\nMoWe 3:05 PM - 4:20 PM\nJohn\n\n\nLab 01\nPerkins LINK 087 (Classroom 3)\nTh 1:25 PM - 2:40 PM\nAurora\n\n\nLab 02\nPerkins LINK 087 (Classroom 3)\nTh 3:05 PM - 4:20 PM\nAurora",
-    "crumbs": [
-      "Syllabus",
-      "Overview"
-    ]
-  },
-  {
-    "objectID": "syllabus/syllabus-resources.html",
-    "href": "syllabus/syllabus-resources.html",
-    "title": "University resources",
-    "section": "",
-    "text": "If you are having difficulty with the costs associated with this course (obtaining a laptop, mostly), here are some resources:\n\nKarsh Office of Undergraduate Support: Regardless of your aid package, Karsh offers loans and resources for connecting students with campus programs that might help alleviate course costs.\nDukeLIFE: The Course Material Assistance program offers assistance for eligible students, including through the LIFE Loaner Laptop Program. Students who are eligible for DukeLIFE benefits are notified before the start of the semester; program resources are limited.\nDuke Link: They have a small supply of laptops that can be rented out for five days at a time.",
-    "crumbs": [
-      "Syllabus",
-      "University resources"
-    ]
-  },
-  {
-    "objectID": "syllabus/syllabus-resources.html#course-costs",
-    "href": "syllabus/syllabus-resources.html#course-costs",
-    "title": "University resources",
-    "section": "",
-    "text": "If you are having difficulty with the costs associated with this course (obtaining a laptop, mostly), here are some resources:\n\nKarsh Office of Undergraduate Support: Regardless of your aid package, Karsh offers loans and resources for connecting students with campus programs that might help alleviate course costs.\nDukeLIFE: The Course Material Assistance program offers assistance for eligible students, including through the LIFE Loaner Laptop Program. Students who are eligible for DukeLIFE benefits are notified before the start of the semester; program resources are limited.\nDuke Link: They have a small supply of laptops that can be rented out for five days at a time.",
-    "crumbs": [
-      "Syllabus",
-      "University resources"
-    ]
-  },
-  {
-    "objectID": "syllabus/syllabus-resources.html#tech-support",
-    "href": "syllabus/syllabus-resources.html#tech-support",
-    "title": "University resources",
-    "section": "Tech support",
-    "text": "Tech support\nContact the Duke OIT Service Desk at oit.duke.edu/help.",
-    "crumbs": [
-      "Syllabus",
-      "University resources"
-    ]
-  },
-  {
-    "objectID": "syllabus/syllabus-resources.html#academic-support",
-    "href": "syllabus/syllabus-resources.html#academic-support",
-    "title": "University resources",
-    "section": "Academic support",
-    "text": "Academic support\nThere are times you may need help with the class that is beyond what can be provided by the teaching team. In those instances, I encourage you to visit the Academic Resource Center. The Academic Resource Center (the ARC) offers services to support students academically during their undergraduate careers at Duke. The ARC can provide support with time management, academic skills and strategies, course-specific tutoring, and more. ARC services are available free to all Duke undergraduate student studying any discipline.\nYou can contact the Academic Resource Center by phone at (919) 684-5917, by email at theARC@duke.edu, or by visiting http://arc.duke.edu/.",
-    "crumbs": [
-      "Syllabus",
-      "University resources"
-    ]
-  },
-  {
-    "objectID": "syllabus/syllabus-resources.html#accessibility",
-    "href": "syllabus/syllabus-resources.html#accessibility",
-    "title": "University resources",
-    "section": "Accessibility",
-    "text": "Accessibility\nIf any portion of the course is not accessible to you due to challenges with technology or the course format, please let me know so we can make appropriate accommodations.\nThe Student Disability Access Office (SDAO) is available to ensure that students can engage with their courses and related assignments. Students should contact the SDAO to request or update accommodations under these circumstances.",
-    "crumbs": [
-      "Syllabus",
-      "University resources"
-    ]
-  },
-  {
-    "objectID": "syllabus/syllabus-resources.html#mental-health-and-well-being",
-    "href": "syllabus/syllabus-resources.html#mental-health-and-well-being",
-    "title": "University resources",
-    "section": "Mental health and well-being",
-    "text": "Mental health and well-being\nDuke is committed to holistic student wellbeing, which includes one’s mental, emotional, and physical health. The university offers resources to help students manage daily stress, to encourage intentional self-care, and to access just-in-time support. If you find you need support, your mental and/or emotional health concerns are impacting your day-to-day activities, your academic performance, or you need someone to talk to, the resources below are available to you:\n\nDukeReach: DukeReach provides comprehensive outreach services to support students in managing all aspects of wellbeing, including referrals and follow-up services for students who are experiencing significant challenges related to mental health, physical health, social adjustment, and/or a variety of other stressors. You can contact the DukeReach team at dukereach@duke.edu;\nCounseling and Psychological Services (CAPS): CAPS offers counseling services to Duke students including virtual appointments, and referrals in the community. You do not need an appointment for an initial assessment. You may walk in or call 919-660-1000 to get started. Hours: Monday-Friday 9:00am - 4:00pm. After hours counseling services are available at no additional cost to students, you can call: 919-660-1000 Option 2;\nTimelyCare: TimelyCare is an online platform that is a convenient, confidential, and free way for Duke students to receive 24/7 mental health support through TalkNow and scheduled counseling;\nDuke Student Health: Student Health offers a wide range of healthcare services for all Duke students, many of which are covered by the student health fee. To make an appointment call (919) 681-9355. Hours: Monday - Friday, 8am - 4:30pm, Thursday 9am - 4:30pm. Closed from 12-12:30 each day.",
-    "crumbs": [
-      "Syllabus",
-      "University resources"
-    ]
-  },
-  {
-    "objectID": "syllabus/syllabus-assignments.html",
-    "href": "syllabus/syllabus-assignments.html",
-    "title": "Assignments and grading",
-    "section": "",
-    "text": "Your final course grade will be calculated as follows:\nYour final letter grade will be determined based on the usual thresholds:",
-    "crumbs": [
-      "Syllabus",
-      "Assignments and grading"
-    ]
-  },
-  {
-    "objectID": "syllabus/syllabus-assignments.html#labs-10",
-    "href": "syllabus/syllabus-assignments.html#labs-10",
-    "title": "Assignments and grading",
-    "section": "Labs (10%)",
-    "text": "Labs (10%)\nIn lab every Thursday, you will complete a guided activity that introduces you to special topics, extensions, or applications of the latest course material. Along the way, we will teach you how to implement some of the ideas from the course in the R programming language. Ideally you should be able to finish the activity by the end of your lab period, but in any case, you must submit your lab work by 11:59 ET PM that same day.\nEach lab assignment will be graded on the following scale:\n\n1.0: a complete, good faith attempt at every part of every problem;\n0.5: partially complete;\n0.0: no submission, or mostly incomplete.\n\n\n\n\n\n\n\nGrace\n\n\n\nYour two lowest lab scores will be dropped at the end of the semester.",
-    "crumbs": [
-      "Syllabus",
-      "Assignments and grading"
-    ]
-  },
-  {
-    "objectID": "syllabus/syllabus-assignments.html#problem-sets-30",
-    "href": "syllabus/syllabus-assignments.html#problem-sets-30",
-    "title": "Assignments and grading",
-    "section": "Problem Sets (30%)",
-    "text": "Problem Sets (30%)\nMathematics is like everything else in life; if you practice, you improve. As such, the problem sets are really the heart of the course. They will mostly consist of pencil-and-paper math problems, but sometimes you will be asked to do some coding. You may compose you solutions however you like (scan or photograph written work, LaTeX, Quarto, handwriting capture on a tablet, whatever) so long as you ultimately upload a single .pdf file to Gradescope.\n\n\n\n\n\n\nGrace\n\n\n\nYour lowest problem set score will be dropped at the end of the semester.",
-    "crumbs": [
-      "Syllabus",
-      "Assignments and grading"
-    ]
-  },
-  {
-    "objectID": "syllabus/syllabus-assignments.html#exams-20-each",
-    "href": "syllabus/syllabus-assignments.html#exams-20-each",
-    "title": "Assignments and grading",
-    "section": "Exams (20% each)",
-    "text": "Exams (20% each)\nThere will be three exams. The dates, times, and locations are firm, so mark your calendar now:\n\nMidterm 1: Thursday October 9 during your lab;\nMidterm 2: Thursday November 13 during your lab;\nFinal: Friday December 12 from 9 AM - 12 PM in Old Chem 116.\n\nThese will be old school, pencil-and-paper, in-class exams. You are allowed only two resources:\n\na “dumb” calculator (no wi-fi). You will not actually need it, but if you want it as a security blanket, be my guest;\nboth sides of one 8.5” x 11” sheet of notes, prepared by you and you alone. You can create it however you wish: handwritten, on a computer, etc.\n\nIf you seek testing accommodations, make sure the Student Disability Access Office sends me a letter, and then please make your appointments in the Testing Center as soon as possible.\n\n\n\n\n\n\nGrace\n\n\n\nIf you do better on the final exam than you did on one of the midterms, we will replace your lowest midterm exam score with your final exam score.\n\n\n\n\n\n\n\n\nNo make-up exams\n\n\n\nIf you are absent from one of the midterms for whatever reason, there will not be a make-up. Pursuant to the above policy, we will simply replace the missed midterm score with the final exam score. If you miss the final exam, you get a zero unless you have a Dean’s Excuse.",
-    "crumbs": [
-      "Syllabus",
-      "Assignments and grading"
-    ]
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "STA HOUSE Statistical Methods in Research",
-    "section": "",
-    "text": "Below is a prospective outline for the course. Due dates are firm, but topics may change with advanced notice.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nWEEK\nDATE\nPREPARE\nTOPIC\nMATERIALS\nDUE\n\n\n\n1\nMon, Jan 12\n\n\n\n\n\n\n2\nMon, Jan 19\n\n\n\n\n\n\n3\nMon, Jan 26\n\n\n\n\n\n\n4\nMon, Feb 2\n\n\n\n\n\n\n5\nMon, Feb 9\n\n\n\n\n\n\n6\nMon, Feb 16\n\n\n\n\n\n\n7\nMon, Feb 23\n\n\n\n\n\n\n8\nMon, Mar 2\n\n\n\n\n\n\n9\nMon, Mar 9\n\n\n\n\n\n\n10\nMon, Mar 16\n\n\n\n\n\n\n11\nMon, Mar 23\n\n\n\n\n\n\n12\nMon, Mar 30\n\n\n\n\n\n\n13\nMon, Apr 6\n\n\n\n\n\n\n14\nMon, Apr 13\n\n\n\n\n\n\n15\nMon, Apr 20",
-    "crumbs": [
-      "Syllabus",
-      "Schedule"
-    ]
-  },
-  {
-    "objectID": "syllabus/syllabus-materials.html",
-    "href": "syllabus/syllabus-materials.html",
-    "title": "Course materials",
-    "section": "",
-    "text": "You are not required to purchase a textbook for this class. However, if you wish to follow along with one, these are all good options:\n\n[Ross] A First Course in Probability by Sheldon Ross;\n[HTZ] Probability and Statistical Inference by Robert Hogg, Elliot Tanis, and Dale Zimmerman;\n[DS] Probability and Statistics by Morris DeGroot and Mark Schervish;\n[Wass] All of Statistics by Larry Wasserman.\n\nIn the PREPARE column of the course schedule, I will indicate which parts of a book correspond to the lectures.",
-    "crumbs": [
-      "Syllabus",
-      "Materials"
-    ]
-  },
-  {
-    "objectID": "syllabus/syllabus-materials.html#textbooks",
-    "href": "syllabus/syllabus-materials.html#textbooks",
-    "title": "Course materials",
-    "section": "",
-    "text": "You are not required to purchase a textbook for this class. However, if you wish to follow along with one, these are all good options:\n\n[Ross] A First Course in Probability by Sheldon Ross;\n[HTZ] Probability and Statistical Inference by Robert Hogg, Elliot Tanis, and Dale Zimmerman;\n[DS] Probability and Statistics by Morris DeGroot and Mark Schervish;\n[Wass] All of Statistics by Larry Wasserman.\n\nIn the PREPARE column of the course schedule, I will indicate which parts of a book correspond to the lectures.",
-    "crumbs": [
-      "Syllabus",
-      "Materials"
-    ]
-  },
-  {
-    "objectID": "syllabus/syllabus-materials.html#technology",
-    "href": "syllabus/syllabus-materials.html#technology",
-    "title": "Course materials",
-    "section": "Technology",
-    "text": "Technology\nLecture will largely be a low tech affair: pencil and paper should be sufficient most of the time. You should always plan to bring a laptop or tablet device to lab. In general, you will need access to a device with internet so that you can use the following:\n\nThis course page that you are on right now;\nR/RStudio via the Duke Container Manager;\nCanvas, through which you can access…\n\nGradescope;\nEd Discussion;\n\nZoom (e.g. for remote office hours).\n\nIf access to technology becomes a concern for you during the semester, contact the instructor immediately to discuss options.",
-    "crumbs": [
-      "Syllabus",
-      "Materials"
-    ]
-  },
-  {
     "objectID": "syllabus/syllabus-team.html",
     "href": "syllabus/syllabus-team.html",
     "title": "Teaching team",
     "section": "",
-    "text": "Mug\nName\nRole\nOffice Hours\n\n\n\n\n\nMa, Liane\nBrains\nWill we even have these?\n\n\n\nRuffing, Cooper\nBrains\nWill we even have these?\n\n\n\nZito, John\nBeauty\nWill we even have these?",
+    "text": "Mug\nName\nRole\n\n\n\n\n\nMa, Liane\nBrains\n\n\n\nRuffing, Cooper\nBrains\n\n\n\nZito, John\nBeauty",
     "crumbs": [
       "Syllabus",
       "Teaching team"
@@ -224,7 +37,7 @@
     "href": "syllabus/syllabus-policies.html#use-of-outside-resources-including-ai",
     "title": "Policies",
     "section": "Use of outside resources, including AI",
-    "text": "Use of outside resources, including AI\nThere are at least two reasons you might seek outside resources:\n\n✅ Extra practice or alternative instruction: Go crazy. Knock yourself out. Have a ball. The internet is saturated with good (and horrible) resources for learning this material, so if you find something that really resonates with you, have at it;\n❌ Doing the problems for you: If you find a solution online, or ask a language model to generate one, and you copy it down and submit it as your own work, that is plagiarism. If we detect it, you will earn a zero for that part of your write-up.\n\n“Using ChatGPT to complete assignments is like bringing a forklift into the weight room; you will never improve your cognitive fitness that way.” Furthermore, 60% of your final course grade is determined by your performance on old school, no-tech exams. As such, outsourcing all of your thinking to an AI will probably end in humiliating disaster. To avoid this, I suggest you abstain from using language models to do the problems for you.",
+    "text": "Use of outside resources, including AI\nThere are at least two reasons you might seek outside resources:\n\n✅ Extra practice or alternative instruction: Go crazy. Knock yourself out. Have a ball. The internet is saturated with good (and horrible) resources for learning this material, so if you find something that really resonates with you, have at it;\n❌ Doing the work for you: If you ask a language model to generate one, and you copy it down and submit it as your own work, that is plagiarism. If we detect it, you will earn a zero for that part of your write-up.\n\n“Using ChatGPT to complete assignments is like bringing a forklift into the weight room; you will never improve your cognitive fitness that way.” Furthermore, 60% of your final course grade is determined by your performance on old school, no-tech exams. As such, outsourcing all of your thinking to an AI will probably end in humiliating disaster. To avoid this, I suggest you abstain from using language models to do the problems for you.",
     "crumbs": [
       "Syllabus",
       "Policies"
@@ -294,6 +107,204 @@
     "crumbs": [
       "Syllabus",
       "Policies"
+    ]
+  },
+  {
+    "objectID": "syllabus/syllabus-materials.html",
+    "href": "syllabus/syllabus-materials.html",
+    "title": "Course materials",
+    "section": "",
+    "text": "You are not required to purchase a textbook for this class.\nIn the PREPARE column of the course schedule, we will note which papers are reading for next class.",
+    "crumbs": [
+      "Syllabus",
+      "Materials"
+    ]
+  },
+  {
+    "objectID": "syllabus/syllabus-materials.html#textbooks",
+    "href": "syllabus/syllabus-materials.html#textbooks",
+    "title": "Course materials",
+    "section": "",
+    "text": "You are not required to purchase a textbook for this class.\nIn the PREPARE column of the course schedule, we will note which papers are reading for next class.",
+    "crumbs": [
+      "Syllabus",
+      "Materials"
+    ]
+  },
+  {
+    "objectID": "syllabus/syllabus-materials.html#technology",
+    "href": "syllabus/syllabus-materials.html#technology",
+    "title": "Course materials",
+    "section": "Technology",
+    "text": "Technology\nTech will be used in most classes. In general, you will need access to a device with internet so that you can use the following:\n\nThis course page that you are on right now;\nR/RStudio via the Duke Container Manager;\nCanvas, through which you can access…\n\nGradescope;\nEd Discussion;\n\nZoom (e.g. for remote office hours).\n\nIf access to technology becomes a concern for you during the semester, contact the instructor immediately to discuss options.",
+    "crumbs": [
+      "Syllabus",
+      "Materials"
+    ]
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "STA HOUSE Statistical Methods in Research",
+    "section": "",
+    "text": "Below is a prospective outline for the course. Due dates are firm, but topics may change with advanced notice.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nWEEK\nDATE\nPREPARE\nTOPIC\nMATERIALS\nDUE\n\n\n\n\n1\nMon, Jan 12\n\n\n\n\n\n\n\n\n\n\n2\nMon, Jan 19\n\n\n\n\n\n\n\n\n\n\n3\nMon, Jan 26\n\n\n\n\n\n\n\n\n\n\n4\nMon, Feb 2\n\n\n\n\n\n\n\n\n\n\n5\nMon, Feb 9\n\n\n\n\n\n\n\n\n\n\n6\nMon, Feb 16\n\n\n\n\n\n\n\n\n\n\n7\nMon, Feb 23\n\n\n\n\n\n\n\n\n\n\n8\nMon, Mar 2\n\n\n\n\n\n\n\n\n\n\n9\nMon, Mar 9\n\n\n\n\n\n\n\n\n\n\n10\nMon, Mar 16\n\n\n\n\n\n\n\n\n\n\n11\nMon, Mar 23\n\n\n\n\n\n\n\n\n\n\n12\nMon, Mar 30\n\n\n\n\n\n\n\n\n\n\n13\nMon, Apr 6\n\n\n\n\n\n\n\n\n\n\n14\nMon, Apr 13\n\n\n\n\n\n\n\n\n\n\n15\nMon, Apr 20",
+    "crumbs": [
+      "Syllabus",
+      "Schedule"
+    ]
+  },
+  {
+    "objectID": "syllabus/syllabus-assignments.html",
+    "href": "syllabus/syllabus-assignments.html",
+    "title": "Assignments and grading",
+    "section": "",
+    "text": "Your final course grade will be calculated as follows:\nThis course is a Satisfactory/Unsatisfactory course. An honest attempt at all assignments will result in a passing grade. Additionally, attendance in at least 11 out of 14 classes is required (by Duke).",
+    "crumbs": [
+      "Syllabus",
+      "Assignments and grading"
+    ]
+  },
+  {
+    "objectID": "syllabus/syllabus-assignments.html#participation-30",
+    "href": "syllabus/syllabus-assignments.html#participation-30",
+    "title": "Assignments and grading",
+    "section": "Participation (30%)",
+    "text": "Participation (30%)\nEach class (outside of the first one) will involve discussion of several papers that have been selected for relevance/interest. Regular involvement in these discussions will result in a full score. If you need an exact number, try to speak out at least once each discussion. We want to hear your voice and about your interests!\n\n\n\n\n\n\nFor clarification\n\n\n\nThis doesn’t mean that if you don’t speak every class you will get a 0. Non-zero variance is expected! (If you don’t know what that means, hopefully you’ll learn during this course.)",
+    "crumbs": [
+      "Syllabus",
+      "Assignments and grading"
+    ]
+  },
+  {
+    "objectID": "syllabus/syllabus-assignments.html#midterm-paper",
+    "href": "syllabus/syllabus-assignments.html#midterm-paper",
+    "title": "Assignments and grading",
+    "section": "Midterm Paper",
+    "text": "Midterm Paper\nBy that point in the semester, we’ve reviewed many fundamental concepts and models in statistics. Although we still have more to cover, it’s important to reflect on and analyze some statistics on your own, and a write-up will help us accomplish this.\nThe prompt: Please describe the basic mechanics of a statistical method we have encountered so far, including a simple explanation of the method, various indicators for the method, and when it should be used. Then, examine the use of the method in a published research paper that we have not seen in class. This should entail an overview of the article (just enough for us to get our head around the idea and variables), why the method was used, and how it supports the article’s conclusion.\nRequirements: - 650 word minimum. - MLA formatted citations. - Due beginning of class Week 8.",
+    "crumbs": [
+      "Syllabus",
+      "Assignments and grading"
+    ]
+  },
+  {
+    "objectID": "syllabus/syllabus-assignments.html#final-project-45",
+    "href": "syllabus/syllabus-assignments.html#final-project-45",
+    "title": "Assignments and grading",
+    "section": "Final Project (45%)",
+    "text": "Final Project (45%)\n\nFinal Project Prompt\nThroughout the semester, you’ll have been exposed to many different methods and models used in research. However, the most important part is being able to apply those skills to a new area and show their similarities and differences in different contexts.\nFor this final project, please write a 1000-word (max) paper and create a 5-10 minute presentation with the following:\n\nPlease describe the basic mechanics of a statistical method/model we have encountered so far, including a simple mathematical explanation of the method, various indicators for the method, and when it should be used. The method chosen must be different from the method used in the midterm paper.\nThen, examine the use of the method/model in a published research paper that we have not seen in class. This should entail a quick overview of the article’s idea and variables, why the method was used, and how it supports the article’s conclusion.\nApply this statistical method/model to a new dataset of your own choosing that we have not seen in class, or replicate some statistical methods being used if the dataset in the article chosen is publicly available. Analyze the data and the results.\n\n\n\n\n\n\n\nGrace\n\n\n\nThere will be two weeks dedicated for presentations. A signup will be sent out after the midterm assignment is due.",
+    "crumbs": [
+      "Syllabus",
+      "Assignments and grading"
+    ]
+  },
+  {
+    "objectID": "syllabus/syllabus-overview.html",
+    "href": "syllabus/syllabus-overview.html",
+    "title": "Course overview",
+    "section": "",
+    "text": "In this course, students will explore the statistical fundamentals necessary for understanding and conducting research in a variety of fields. Students will engage with real-world research papers and datasets across disciplines, exploring how statistics are used (and sometimes misused) in published work. Instead of focusing solely on technical skills, this course emphasizes interpretation, critique, and application of basic statistical tools in research. From exploratory data analysis to research bias, Statistical Methods in Research aims to provide students with a deeper understanding of when, why, and how to best utilize statistical methods in their future storytelling. The course culminates in a student analysis and presentation of a research paper and dataset, applying concepts from class. No previous experience is required in statistical science, research, or data science.",
+    "crumbs": [
+      "Syllabus",
+      "Overview"
+    ]
+  },
+  {
+    "objectID": "syllabus/syllabus-overview.html#description",
+    "href": "syllabus/syllabus-overview.html#description",
+    "title": "Course overview",
+    "section": "",
+    "text": "In this course, students will explore the statistical fundamentals necessary for understanding and conducting research in a variety of fields. Students will engage with real-world research papers and datasets across disciplines, exploring how statistics are used (and sometimes misused) in published work. Instead of focusing solely on technical skills, this course emphasizes interpretation, critique, and application of basic statistical tools in research. From exploratory data analysis to research bias, Statistical Methods in Research aims to provide students with a deeper understanding of when, why, and how to best utilize statistical methods in their future storytelling. The course culminates in a student analysis and presentation of a research paper and dataset, applying concepts from class. No previous experience is required in statistical science, research, or data science.",
+    "crumbs": [
+      "Syllabus",
+      "Overview"
+    ]
+  },
+  {
+    "objectID": "syllabus/syllabus-overview.html#objectives",
+    "href": "syllabus/syllabus-overview.html#objectives",
+    "title": "Course overview",
+    "section": "Objectives",
+    "text": "Objectives\nIn this course, students will: - Critically analyze and interpret statistical methods in peer-reviewed research papers - Explore and apply foundational statistical concepts - Differentiate between statistical models and critically assess their validity - Explore the roles of bias, ethics, and equity in research - Use data visualizations to tell stories - Design and present an applied data analysis project of choice using the R programming language\nPrerequisites: single-variable calculus.",
+    "crumbs": [
+      "Syllabus",
+      "Overview"
+    ]
+  },
+  {
+    "objectID": "syllabus/syllabus-overview.html#meetings",
+    "href": "syllabus/syllabus-overview.html#meetings",
+    "title": "Course overview",
+    "section": "Meetings",
+    "text": "Meetings\n\n\n\n\n\n\n\n\n\nMeeting\nLocation\nTime\nStaff\n\n\n\n\nLectures\nOld Chem 101\nMondays 6:00 PM - 7:30 PM\nLiane, Cooper, and sometimes Dr. Zito",
+    "crumbs": [
+      "Syllabus",
+      "Overview"
+    ]
+  },
+  {
+    "objectID": "syllabus/syllabus-resources.html",
+    "href": "syllabus/syllabus-resources.html",
+    "title": "University resources",
+    "section": "",
+    "text": "If you are having difficulty with the costs associated with this course (obtaining a laptop, mostly), here are some resources:\n\nKarsh Office of Undergraduate Support: Regardless of your aid package, Karsh offers loans and resources for connecting students with campus programs that might help alleviate course costs.\nDukeLIFE: The Course Material Assistance program offers assistance for eligible students, including through the LIFE Loaner Laptop Program. Students who are eligible for DukeLIFE benefits are notified before the start of the semester; program resources are limited.\nDuke Link: They have a small supply of laptops that can be rented out for five days at a time.",
+    "crumbs": [
+      "Syllabus",
+      "University resources"
+    ]
+  },
+  {
+    "objectID": "syllabus/syllabus-resources.html#course-costs",
+    "href": "syllabus/syllabus-resources.html#course-costs",
+    "title": "University resources",
+    "section": "",
+    "text": "If you are having difficulty with the costs associated with this course (obtaining a laptop, mostly), here are some resources:\n\nKarsh Office of Undergraduate Support: Regardless of your aid package, Karsh offers loans and resources for connecting students with campus programs that might help alleviate course costs.\nDukeLIFE: The Course Material Assistance program offers assistance for eligible students, including through the LIFE Loaner Laptop Program. Students who are eligible for DukeLIFE benefits are notified before the start of the semester; program resources are limited.\nDuke Link: They have a small supply of laptops that can be rented out for five days at a time.",
+    "crumbs": [
+      "Syllabus",
+      "University resources"
+    ]
+  },
+  {
+    "objectID": "syllabus/syllabus-resources.html#tech-support",
+    "href": "syllabus/syllabus-resources.html#tech-support",
+    "title": "University resources",
+    "section": "Tech support",
+    "text": "Tech support\nContact the Duke OIT Service Desk at oit.duke.edu/help.",
+    "crumbs": [
+      "Syllabus",
+      "University resources"
+    ]
+  },
+  {
+    "objectID": "syllabus/syllabus-resources.html#academic-support",
+    "href": "syllabus/syllabus-resources.html#academic-support",
+    "title": "University resources",
+    "section": "Academic support",
+    "text": "Academic support\nThere are times you may need help with the class that is beyond what can be provided by the teaching team. In those instances, I encourage you to visit the Academic Resource Center. The Academic Resource Center (the ARC) offers services to support students academically during their undergraduate careers at Duke. The ARC can provide support with time management, academic skills and strategies, course-specific tutoring, and more. ARC services are available free to all Duke undergraduate student studying any discipline.\nYou can contact the Academic Resource Center by phone at (919) 684-5917, by email at theARC@duke.edu, or by visiting http://arc.duke.edu/.",
+    "crumbs": [
+      "Syllabus",
+      "University resources"
+    ]
+  },
+  {
+    "objectID": "syllabus/syllabus-resources.html#accessibility",
+    "href": "syllabus/syllabus-resources.html#accessibility",
+    "title": "University resources",
+    "section": "Accessibility",
+    "text": "Accessibility\nIf any portion of the course is not accessible to you due to challenges with technology or the course format, please let me know so we can make appropriate accommodations.\nThe Student Disability Access Office (SDAO) is available to ensure that students can engage with their courses and related assignments. Students should contact the SDAO to request or update accommodations under these circumstances.",
+    "crumbs": [
+      "Syllabus",
+      "University resources"
+    ]
+  },
+  {
+    "objectID": "syllabus/syllabus-resources.html#mental-health-and-well-being",
+    "href": "syllabus/syllabus-resources.html#mental-health-and-well-being",
+    "title": "University resources",
+    "section": "Mental health and well-being",
+    "text": "Mental health and well-being\nDuke is committed to holistic student wellbeing, which includes one’s mental, emotional, and physical health. The university offers resources to help students manage daily stress, to encourage intentional self-care, and to access just-in-time support. If you find you need support, your mental and/or emotional health concerns are impacting your day-to-day activities, your academic performance, or you need someone to talk to, the resources below are available to you:\n\nDukeReach: DukeReach provides comprehensive outreach services to support students in managing all aspects of wellbeing, including referrals and follow-up services for students who are experiencing significant challenges related to mental health, physical health, social adjustment, and/or a variety of other stressors. You can contact the DukeReach team at dukereach@duke.edu;\nCounseling and Psychological Services (CAPS): CAPS offers counseling services to Duke students including virtual appointments, and referrals in the community. You do not need an appointment for an initial assessment. You may walk in or call 919-660-1000 to get started. Hours: Monday-Friday 9:00am - 4:00pm. After hours counseling services are available at no additional cost to students, you can call: 919-660-1000 Option 2;\nTimelyCare: TimelyCare is an online platform that is a convenient, confidential, and free way for Duke students to receive 24/7 mental health support through TalkNow and scheduled counseling;\nDuke Student Health: Student Health offers a wide range of healthcare services for all Duke students, many of which are covered by the student health fee. To make an appointment call (919) 681-9355. Hours: Monday - Friday, 8am - 4:30pm, Thursday 9am - 4:30pm. Closed from 12-12:30 each day.",
+    "crumbs": [
+      "Syllabus",
+      "University resources"
     ]
   }
 ]
