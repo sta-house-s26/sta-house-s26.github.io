@@ -4,7 +4,7 @@
     "href": "syllabus/syllabus-team.html",
     "title": "Teaching team",
     "section": "",
-    "text": "Mug\nName\nRole\n\n\n\n\n\nMa, Liane\nBrains\n\n\n\nRuffing, Cooper\nBrains\n\n\n\nZito, John\nBeauty",
+    "text": "Mug\nName\nRole\n\n\n\n\n\nMa, Liane\nInstructor\n\n\n\nRuffing, Cooper\nInstructor\n\n\n\nZito, John\nCourse Advisor and Instructor",
     "crumbs": [
       "Syllabus",
       "Teaching team"
@@ -37,7 +37,7 @@
     "href": "syllabus/syllabus-policies.html#use-of-outside-resources-including-ai",
     "title": "Policies",
     "section": "Use of outside resources, including AI",
-    "text": "Use of outside resources, including AI\nThere are at least two reasons you might seek outside resources:\n\n✅ Extra practice or alternative instruction: Go crazy. Knock yourself out. Have a ball. The internet is saturated with good (and horrible) resources for learning this material, so if you find something that really resonates with you, have at it;\n❌ Doing the work for you: If you ask a language model to generate one, and you copy it down and submit it as your own work, that is plagiarism. If we detect it, you will earn a zero for that part of your write-up.\n\n“Using ChatGPT to complete assignments is like bringing a forklift into the weight room; you will never improve your cognitive fitness that way.” Furthermore, 60% of your final course grade is determined by your performance on old school, no-tech exams. As such, outsourcing all of your thinking to an AI will probably end in humiliating disaster. To avoid this, I suggest you abstain from using language models to do the problems for you.",
+    "text": "Use of outside resources, including AI\nThere are at least two reasons you might seek outside resources:\n\n*Extra practice or alternative instruction**: Go crazy. Knock yourself out. Have a ball. The internet is saturated with good (and horrible) resources for learning this material, so if you find something that really resonates with you, have at it;\n*Doing the work for you**: If you ask a language model to generate a summary, and you copy it down and submit it as your own work, that is plagiarism. If we detect it, you will earn a zero for that part of your write-up.\n\n“Using ChatGPT to complete assignments is like bringing a forklift into the weight room; you will never improve your cognitive fitness that way.” Furthermore, this course is a half-credit, pass-fail course purely for your own interest. As such, outsourcing all of your thinking to an AI will probably end in this entire enterprise being a complete waste of time and energy. To avoid this, I suggest you abstain from using language models to do the reading/thinking for you.",
     "crumbs": [
       "Syllabus",
       "Policies"
@@ -48,7 +48,7 @@
     "href": "syllabus/syllabus-policies.html#communication",
     "title": "Policies",
     "section": "Communication",
-    "text": "Communication\nIf you wish to ask content-related questions in writing, please do not do so via e-mail. Instead, please use the course discussion forum Ed Discussion. That way all members of the teaching team can see your question, and all students can benefit from the ensuing discussion. You are also encouraged to answer one another’s questions.\nIf you have questions about personal matters that may not be appropriate for the public course forum (e.g. illness, accommodations, etc), then please e-mail the instructor directly (john.zito@duke.edu).\n\n\n\n\n\n\nNote\n\n\n\nYou can ask questions anonymously on Ed. The teaching team will still know your identity, but your peers will not.",
+    "text": "Communication\nIf you wish to ask content-related questions in writing, please do not do so via e-mail. Instead, please use the course discussion forum Ed Discussion. That way all members of the teaching team can see your question, and all students can benefit from the ensuing discussion. You are also encouraged to answer one another’s questions.\nIf you have questions about personal matters that may not be appropriate for the public course forum (e.g. illness, accommodations, etc), then please e-mail the instructor directly (john.zito@duke.edu).",
     "crumbs": [
       "Syllabus",
       "Policies"
@@ -59,7 +59,7 @@
     "href": "syllabus/syllabus-policies.html#late-work-and-extensions",
     "title": "Policies",
     "section": "Late work and extensions",
-    "text": "Late work and extensions\nNo late work will be accepted unless you request an extension in advance by e-mailing the instructor directly (john.zito@duke.edu). All reasonable requests will be entertained, but extensions will not be long.",
+    "text": "Late work and extensions\nNo late work will be accepted unless you request an extension in advance by e-mailing the instructors directly (cooper.ruffing@duke.edu, liane.ma@duke.edu, and john.zito@duke.edu). All reasonable requests will be entertained, but extensions will not be long.",
     "crumbs": [
       "Syllabus",
       "Policies"
@@ -70,7 +70,7 @@
     "href": "syllabus/syllabus-policies.html#regrade-requests",
     "title": "Policies",
     "section": "Regrade requests",
-    "text": "Regrade requests\nIf you receive a graded assignment back, and you believe that some part of it was graded incorrectly, you may dispute the grade by submitting a regrade request in Gradescope. JZ is the sole reviewer of these. Note the following:\n\nYou have one week after you receive a grade to submit a regrade request;\nYou should submit separate regrade requests for each question you wish to dispute, not a single catch-all request;\nRequests will be considered if there was an error in the grade calculation or if a correct answer was mistakenly marked as incorrect;\nRequests to dispute the number of points deducted for an incorrect response will not be considered;\nNo grades will be changed after the final exam has been administered on Friday December 12.",
+    "text": "Regrade requests\nIf you receive a graded assignment back, and you believe that some part of it was graded incorrectly, you may dispute the grade by emailing Dr. Zito, who is the sole reviewer of these. Note the following:\n\nYou have one week after you receive a grade to submit a regrade request;\nYou should submit separate regrade requests for each question you wish to dispute, not a single catch-all request;\nRequests will be considered if there was an error in the grade calculation or if a correct answer was mistakenly marked as incorrect;\nRequests to dispute the number of points deducted for an incorrect response will not be considered;\nNo grades will be changed after the final class period has been occurred on Monday, April 20.",
     "crumbs": [
       "Syllabus",
       "Policies"
@@ -81,7 +81,7 @@
     "href": "syllabus/syllabus-policies.html#attendance",
     "title": "Policies",
     "section": "Attendance",
-    "text": "Attendance\nLive your life. Attendance is not strictly required for any of the class meetings. The responsibility lies with us to make class meetings sufficiently engaging and informative that you choose to attend. Having said that, success in this class and regular attendance are probably highly positively correlated. Furthermore, while lab attendance is not required, regular attendance is probably the path of least resistance to earning full credit for the lab component of your final grade. The labs are designed so that they can be completed in one sitting more or less, and they are due at midnight the same day. So show up to lab, bang it out, and move on with your life.",
+    "text": "Attendance\nDuke requires students to attend at least 11 house course meetings. We hope you’ll show up for all 14!",
     "crumbs": [
       "Syllabus",
       "Policies"
@@ -103,7 +103,7 @@
     "href": "syllabus/syllabus-policies.html#duke-community-standard",
     "title": "Policies",
     "section": "Duke Community Standard",
-    "text": "Duke Community Standard\nDuke University is a community dedicated to scholarship, leadership, and service and to the principles of honesty, fairness, respect, and accountability. Members of this community commit to reflect upon and uphold these principles in all academic and non-academic endeavors, and to protect and promote a culture of integrity.\nDuke University has high expectations for students’ scholarship and conduct. In accepting admission, students indicate their willingness to subscribe to and be governed by the rules and regulations of the university, which flow from the Duke Community Standard (DCS).\nRegardless of course delivery format, it is the responsibility of all students to understand and follow all Duke policies, including but not limited to the academic integrity policy (e.g., completing one’s own work, following proper citation of sources, adhering to guidance around group work projects, and more). Ignoring these requirements is a violation of the DCS.\nStudents can direct any questions or concerns regarding academic integrity to the Office of Student Conduct and Community Standards at conduct@duke.edu and can access the DCS guide at https://dukecommunitystandard.students.duke.edu/.\nIn STA 240 specifically…\n\nIf a conduct violation results in a zero on a lab or problem set, that zero will not be dropped;\nIf a conduct violation results in a zero on a midterm, that zero will not be replaced with your final exam score;\nIf we discover that students are sharing and copying assignment solutions, all students involved will be penalized equally, the sharers the same as the recipients.",
+    "text": "Duke Community Standard\nDuke University is a community dedicated to scholarship, leadership, and service and to the principles of honesty, fairness, respect, and accountability. Members of this community commit to reflect upon and uphold these principles in all academic and non-academic endeavors, and to protect and promote a culture of integrity.\nDuke University has high expectations for students’ scholarship and conduct. In accepting admission, students indicate their willingness to subscribe to and be governed by the rules and regulations of the university, which flow from the Duke Community Standard (DCS).\nRegardless of course delivery format, it is the responsibility of all students to understand and follow all Duke policies, including but not limited to the academic integrity policy (e.g., completing one’s own work, following proper citation of sources, adhering to guidance around group work projects, and more). Ignoring these requirements is a violation of the DCS.\nStudents can direct any questions or concerns regarding academic integrity to the Office of Student Conduct and Community Standards at conduct@duke.edu and can access the DCS guide at https://dukecommunitystandard.students.duke.edu/.\nIn House Course 59-11 specifically…\n\nIf a conduct violation results in a zero on a lab or problem set, that zero will not be dropped;\nIf a conduct violation results in a zero on a midterm, that zero will not be replaced with your final exam score;\nIf we discover that students are sharing and copying assignment solutions, all students involved will be penalized equally, the sharers the same as the recipients.",
     "crumbs": [
       "Syllabus",
       "Policies"
@@ -176,11 +176,11 @@
     ]
   },
   {
-    "objectID": "syllabus/syllabus-assignments.html#midterm-paper",
-    "href": "syllabus/syllabus-assignments.html#midterm-paper",
+    "objectID": "syllabus/syllabus-assignments.html#midterm-paper-25",
+    "href": "syllabus/syllabus-assignments.html#midterm-paper-25",
     "title": "Assignments and grading",
-    "section": "Midterm Paper",
-    "text": "Midterm Paper\nBy that point in the semester, we’ve reviewed many fundamental concepts and models in statistics. Although we still have more to cover, it’s important to reflect on and analyze some statistics on your own, and a write-up will help us accomplish this.\nThe prompt: Please describe the basic mechanics of a statistical method we have encountered so far, including a simple explanation of the method, various indicators for the method, and when it should be used. Then, examine the use of the method in a published research paper that we have not seen in class. This should entail an overview of the article (just enough for us to get our head around the idea and variables), why the method was used, and how it supports the article’s conclusion.\nRequirements: - 650 word minimum. - MLA formatted citations. - Due beginning of class Week 8.",
+    "section": "Midterm Paper (25%)",
+    "text": "Midterm Paper (25%)\nBy that point in the semester, we’ve reviewed many fundamental concepts and models in statistics. Although we still have more to cover, it’s important to reflect on and analyze some statistics on your own, and a write-up will help us accomplish this.\nThe prompt: Please describe the basic mechanics of a statistical method we have encountered so far, including a simple explanation of the method, various indicators for the method, and when it should be used. Then, examine the use of the method in a published research paper that we have not seen in class. This should entail an overview of the article (just enough for us to get our head around the idea and variables), why the method was used, and how it supports the article’s conclusion.\nRequirements: - 650 word minimum. - MLA formatted citations. - Due beginning of class Week 8.",
     "crumbs": [
       "Syllabus",
       "Assignments and grading"
