@@ -6,21 +6,22 @@ editor:
 
 ## Description
 
-This is a course on the mathematics of probability and statistics. In **probability**, we describe the distribution of a random phenomenon and then study how the realizations of that phenomenon typically behave. In **statistics**, we do the reverse; we observe realizations of a random phenomenon with *unknown* distribution, and then use the data to figure out what the distribution is. We will spend twelve weeks on the first, and then three weeks on the second. Topics include set theory, probability spaces, counting methods, conditional probability, discrete and (absolutely) continuous random variables, transformations of random variables, (pseudo)random number generation, bivariate distributions, concentration inequalities, limit theorems, maximum likelihood estimation, and Bayesian inference with conjugate priors. 
+In this course, students will explore the statistical fundamentals necessary for understanding and conducting research in a variety of fields. Students will engage with real-world research papers and datasets across disciplines, exploring how statistics are used (and sometimes misused) in published work. Instead of focusing solely on technical skills, this course emphasizes interpretation, critique, and application of basic statistical tools in research. From exploratory data analysis to research bias, Statistical Methods in Research aims to provide students with a deeper understanding of when, why, and how to best utilize statistical methods in their future storytelling. The course culminates in a student analysis and presentation of a research paper and dataset, applying concepts from class. No previous experience is required in statistical science, research, or data science. 
 
-Aside from the concrete topics, the course emphasizes four generic intellectual themes:
+## Objectives
 
-- Students in this class will improve their mathematical maturity. They will deepen their experience with all of the main ideas and techniques of univariate calculus, they will encounter topics like set theory and combinatorics, which may be new to them, and they will get a taste of rigorous mathematical proof;
-- Probability and statistics weasel their way into pretty much everything these days, and students will study a wide variety of famous and obscure applications coming from the natural and social sciences, technology and industry, and even arts and culture;
-- Probability and statistics are often counterintuitive, and humans frequently make silly and harmful mistakes in reasoning. Students will use their mathematical knowledge to identify and critique these errors...and hopefully avoid them themselves;
-- This is a course about doing the math, but in the modern era, this has a symbiotic relationship with computer simulation. Simulation is used both to verify and probe mathematical results, as well as to substitute for them when a proof remains beyond the frontier. Students will learn the basics of the `R` programming language and use it to simulate probabilistic environments and reinforce their mathematical reasoning.
+In this course, students will:
+- Critically analyze and interpret statistical methods in peer-reviewed research papers
+- Explore and apply foundational statistical concepts
+- Differentiate between statistical models and critically assess their validity
+- Explore the roles of bias, ethics, and equity in research
+- Use data visualizations to tell stories
+- Design and present an applied data analysis project of choice using the R programming language
 
 **Prerequisites:** single-variable calculus.
 
 ## Meetings
 
-| Meeting  | Location                       | Time                   | Staff  |
-|----------|--------------------------------|------------------------|--------|
-| Lectures | Old Chem 116                   | MoWe 3:05 PM - 4:20 PM | John   |
-| Lab 01   | Perkins LINK 087 (Classroom 3) | Th 1:25 PM - 2:40 PM   | Aurora |
-| Lab 02   | Perkins LINK 087 (Classroom 3) | Th 3:05 PM - 4:20 PM   | Aurora |
+| Meeting  | Location                       | Time                      | Staff                                   |
+|----------|--------------------------------|---------------------------|-----------------------------------------|
+| Lectures | Old Chem 101                   | Mondays 6:00 PM - 7:30 PM | Liane, Cooper, and sometimes Dr. Zito   |

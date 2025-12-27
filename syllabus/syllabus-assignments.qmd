@@ -9,86 +9,60 @@ Your final course grade will be calculated as follows:
 ::: {.center-table}
 | Category       | Percentage |
 |----------------|------------|
-| Labs           | 10%        |
-| Problem Sets   | 30%        |
-| Midterm Exam 1 | 20%        |
-| Midterm Exam 2 | 20%        |
-| Final exam     | 20%        |
+| Participation  | 30%        |
+| Midterm Paper  | 25%        |
+| Final Project  | 45%        |
 :::
 
-Your final letter grade will be determined based on the usual thresholds:
+This course is a Satisfactory/Unsatisfactory course. An honest attempt at all assignments will result in a passing grade. Additionally, attendance in at least 11 out of 14 classes is required (by Duke).
 
 ::: {.center-table}
 | Letter Grade | Final Course Grade |
 |--------------|--------------------|
-| A+           | \>= 97             |
-| A            | 93 - 96.99         |
-| A-           | 90 - 92.99         |
-| B+           | 87 - 89.99         |
-| B            | 83 - 86.99         |
-| B-           | 80 - 82.99         |
-| C+           | 77 - 79.99         |
-| C            | 73 - 76.99         |
-| C-           | 70 - 72.99         |
-| D+           | 67 - 69.99         |
-| D            | 63 - 66.99         |
-| D-           | 60 - 62.99         |
-| F            | \< 60              |
+| S            | \>= 60             |
+| U            | \< 60              |
 :::
 
 ::: callout-warning
-These thresholds will not change, and they will be applied exactly. This means that the final grades will not be curved, and a 92.99, for example, will not be rounded up to an A.
+We don't expect to give out any U's. Please work with us as much as possible/necessary!
 :::
 
-## Labs (10%)
+## Participation (30%)
 
-In lab every Thursday, you will complete a guided activity that introduces you to special topics, extensions, or applications of the latest course material. Along the way, we will teach you how to implement some of the ideas from the course in the `R` programming language. Ideally you should be able to finish the activity by the end of your lab period, but in any case, you must submit your lab work by 11:59 ET PM that same day.
+Each class (outside of the first one) will involve discussion of several papers that have been selected for relevance/interest. Regular involvement in these discussions will result in a full score. If you need an exact number, try to speak out at least once each discussion. We want to hear your voice and about your interests!
 
-Each lab assignment will be graded on the following scale:
+::: callout-note
+## For clarification
 
--   1.0: a complete, good faith attempt at every part of every problem;
--   0.5: partially complete;
--   0.0: no submission, or mostly incomplete.
+This doesn't mean that if you don't speak every class you will get a 0. Non-zero variance is expected! (If you don't know what that means, hopefully you'll learn during this course.)
+:::
+
+## Midterm Paper
+
+By that point in the semester, we’ve reviewed many fundamental concepts and models in statistics. Although we still have more to cover, it’s important to reflect on and analyze some statistics on your own, and a write-up will help us accomplish this. 
+
+The prompt:
+Please describe the basic mechanics of a statistical method we have encountered so far, including a simple explanation of the method, various indicators for the method, and when it should be used. Then, examine the use of the method in a published research paper that we have not seen in class. This should entail an overview of the article (just enough for us to get our head around the idea and variables), why the method was used, and how it supports the article’s conclusion.
+
+Requirements:
+- 650 word minimum.
+- MLA formatted citations.
+- Due beginning of class Week 8.
+
+## Final Project (45%)
+
+### Final Project Prompt
+Throughout the semester, you’ll have been exposed to many different methods and models used in research. However, the most important part is being able to apply those skills to a new area and show their similarities and differences in different contexts.
+
+For this final project, please write a 1000-word (max) paper and create a 5-10 minute presentation with the following:
+
+1. Please describe the basic mechanics of a statistical method/model we have encountered so far, including a simple mathematical explanation of the method, various indicators for the method, and when it should be used. The method chosen must be different from the method used in the midterm paper. 
+2. Then, examine the use of the method/model in a published research paper that we have not seen in class. This should entail a quick overview of the article’s idea and variables, why the method was used, and how it supports the article’s conclusion. 
+3. Apply this statistical method/model to a new dataset of your own choosing that we have not seen in class, or replicate some statistical methods being used if the dataset in the article chosen is publicly available. Analyze the data and the results.
+
 
 ::: callout-note
 ## Grace
 
-Your two lowest lab scores will be dropped at the end of the semester.
-:::
-
-## Problem Sets (30%)
-
-Mathematics is like everything else in life; if you practice, you improve. As such, the problem sets are really the heart of the course. They will mostly consist of pencil-and-paper math problems, but sometimes you will be asked to do some coding. You may compose you solutions however you like (scan or photograph written work, LaTeX, Quarto, handwriting capture on a tablet, whatever) so long as you ultimately upload a single `.pdf` file to Gradescope.
-
-::: callout-note
-## Grace
-
-Your lowest problem set score will be dropped at the end of the semester.
-:::
-
-## Exams (20% each)
-
-There will be three exams. The dates, times, and locations are firm, so mark your calendar now:
-
--   **Midterm 1**: Thursday October 9 during your lab;
--   **Midterm 2**: Thursday November 13 during your lab;
--   **Final**: Friday December 12 from 9 AM - 12 PM in Old Chem 116.
-
-These will be old school, pencil-and-paper, in-class exams. You are allowed only two resources:
-
-- a "dumb" calculator (no wi-fi). You will not actually need it, but if you want it as a security blanket, be my guest;
-- both sides of one 8.5" x 11" sheet of notes, prepared by you and you alone. You can create it however you wish: handwritten, on a computer, etc.
-
-If you seek testing accommodations, make sure the Student Disability Access Office sends me a letter, and then please make your appointments in the [Testing Center](https://testingcenter.duke.edu) as soon as possible.
-
-::: callout-note
-## Grace
-
-If you do better on the final exam than you did on one of the midterms, we will replace your lowest midterm exam score with your final exam score.
-:::
-
-::: callout-warning
-## No make-up exams
-
-If you are absent from one of the midterms for whatever reason, there will not be a make-up. Pursuant to the above policy, we will simply replace the missed midterm score with the final exam score. If you miss the final exam, you get a zero unless you have a [Dean's Excuse](https://trinity.duke.edu/undergraduate/academic-policies/final-exams-scheduling-conflicts-and-absences).
+There will be two weeks dedicated for presentations. A signup will be sent out after the midterm assignment is due.
 :::

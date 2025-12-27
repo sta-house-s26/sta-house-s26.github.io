@@ -4,18 +4,13 @@ title: "Course materials"
 
 ## Textbooks
 
-You are not required to purchase a textbook for this class. However, if you wish to follow along with one, these are all good options:
+You are not required to purchase a textbook for this class. 
 
--   `[Ross]` *A First Course in Probability* by Sheldon Ross;
--   `[HTZ]` *Probability and Statistical Inference* by Robert Hogg, Elliot Tanis, and Dale Zimmerman;
--   `[DS]` *Probability and Statistics* by Morris DeGroot and Mark Schervish;
--   `[Wass]` *All of Statistics* by Larry Wasserman.
-
-In the **PREPARE** column of the [course schedule](https://sta240-f25.github.io/), I will indicate which parts of a book correspond to the lectures.
+In the **PREPARE** column of the [course schedule](https://sta240-f25.github.io/), we will note which papers are reading for next class.
 
 ## Technology
 
-Lecture will largely be a low tech affair: pencil and paper should be sufficient most of the time. You should always plan to bring a laptop or tablet device to lab. In general, you will need access to a device with internet so that you can use the following:
+Tech will be used in most classes. In general, you will need access to a device with internet so that you can use the following:
 
 -   [This course page](https://sta240-f25.github.io/) that you are on right now;
 -   `R`/`RStudio` via the [Duke Container Manager](https://cmgr.oit.duke.edu/containers);
