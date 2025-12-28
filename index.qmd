@@ -33,7 +33,7 @@ d |>
   mutate(
     date = as.Date(date),
     prepare = if_else(is.na(prepare), prepare, prepare |>
-                        str_replace_all("\n") |>
+                        str_replace_all("\\\\n", "\n") |>
                         str_trim()),
     prepare = if_else(date > prepare_cutoff_date, "*To be posted*", prepare)
     ) |>
