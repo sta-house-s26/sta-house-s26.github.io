@@ -18,6 +18,7 @@ Below is a prospective outline for the course. Due dates are firm, but topics ma
 library(googlesheets4)
 library(gt)
 library(tidyverse)
+library(stringr)
 gs4_deauth()
 d <- read_sheet("https://docs.google.com/spreadsheets/d/1jAZ7fE8jnHsIS247RuliSuOi6gVKBFTg0-UJ0lt6sRg/edit?usp=sharing")
 prepare_cutoff_date <- as.Date("2026-5-1")
@@ -31,6 +32,9 @@ d |>
   select(-dow, -admin_notes, -number, -session) |>
   mutate(
     date = as.Date(date),
+    prepare = if_else(is.na(prepare), prepare, prepare |>
+                        str_replace_all("\n") |>
+                        str_trim()),
     prepare = if_else(date > prepare_cutoff_date, "*To be posted*", prepare)
     ) |>
   relocate(due, .after = materials) |>
