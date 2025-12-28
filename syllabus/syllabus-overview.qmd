@@ -18,7 +18,7 @@ In this course, students will:
 - Use data visualizations to tell stories
 - Design and present an applied data analysis project of choice using the R programming language
 
-**Prerequisites:** single-variable calculus.
+**Prerequisites:** A vested interest in getting better at critically analyzing papers
 
 ## Meetings
 
