@@ -105,8 +105,8 @@ d |>
   cols_width(
     week ~ pct(2),
     date ~ pct(9), 
-    prepare ~ pct(12),
-    topic ~ pct(22),
+    prepare ~ pct(22),
+    topic ~ pct(12),
     materials ~ pct(15),
     due ~ pct(12)
   ) |>
