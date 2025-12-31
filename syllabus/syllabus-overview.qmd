@@ -6,21 +6,26 @@ editor:
 
 ## Description
 
-In this course, students will explore the statistical fundamentals necessary for understanding and conducting research in a variety of fields. Students will engage with real-world research papers and datasets across disciplines, exploring how statistics are used (and sometimes misused) in published work. Instead of focusing solely on technical skills, this course emphasizes interpretation, critique, and application of basic statistical tools in research. From exploratory data analysis to research bias, Statistical Methods in Research aims to provide students with a deeper understanding of when, why, and how to best utilize statistical methods in their future storytelling. The course culminates in a student analysis and presentation of a research paper and dataset, applying concepts from class. No previous experience is required in statistical science, research, or data science. 
+In this course, students will explore the statistical fundamentals necessary for understanding and conducting research in a variety of fields. Students will engage with real-world research papers and datasets across disciplines, exploring how statistics are used (and sometimes misused) in published work. Instead of focusing solely on technical skills, this course emphasizes interpretation, critique, and application of basic statistical tools in research. From exploratory data analysis to research bias, Statistical Methods in Research aims to provide students with a deeper understanding of when, why, and how to best utilize statistical methods in their future storytelling. The course culminates in a student analysis and presentation of a research paper and dataset, applying concepts from class. No previous experience is required in statistical science, research, or data science.
 
 ## Objectives
 
 In this course, students will:Critically analyze and interpret statistical methods in peer-reviewed research papers
+
 -   Explore and apply foundational statistical concepts
+
 -   Differentiate between statistical models and critically assess their validity
+
 -   Explore the roles of bias, ethics, and equity in research
+
 -   Use data visualizations to tell stories
+
 -   Design and present an applied data analysis project of choice using the R programming language
 
 **Prerequisites:** A vested interest in getting better at critically analyzing papers.
 
 ## Meetings
 
-| Meeting  | Location                       | Time                      | Staff                                   |
-|----------|--------------------------------|---------------------------|-----------------------------------------|
-| Lectures | Old Chem 101                   | Mondays 6:00 PM - 7:30 PM | Liane, Cooper, and sometimes Dr. Zito   |
+| Meeting | Location | Time | Staff |
+|---------------|------------------|---------------|------------------------|
+| Lectures | Old Chem 101 | Mondays 6:00 PM - 7:30 PM | Liane, Cooper, and sometimes Dr. Zito |

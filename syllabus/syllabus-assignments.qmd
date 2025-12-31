@@ -6,17 +6,17 @@ editor:
 
 Your final course grade will be calculated as follows:
 
-::: {.center-table}
-| Category       | Percentage |
-|----------------|------------|
-| Participation  | 30%        |
-| Midterm Paper  | 25%        |
-| Final Project  | 45%        |
+::: center-table
+| Category      | Percentage |
+|---------------|------------|
+| Participation | 30%        |
+| Midterm Paper | 25%        |
+| Final Project | 45%        |
 :::
 
 This course is a Satisfactory/Unsatisfactory course. An honest attempt at all assignments will result in a passing grade. Additionally, attendance in at least 11 out of 14 classes is required (by Duke).
 
-::: {.center-table}
+::: center-table
 | Letter Grade | Final Course Grade |
 |--------------|--------------------|
 | S            | \>= 60             |
@@ -39,27 +39,29 @@ This doesn't mean that if you don't speak every class you will get a 0. Non-zero
 
 ## Midterm Paper (25%)
 
-By that point in the semester, we’ve reviewed many fundamental concepts and models in statistics. Although we still have more to cover, it’s important to reflect on and analyze some statistics on your own, and a write-up will help us accomplish this. 
+By that point in the semester, we’ve reviewed many fundamental concepts and models in statistics. Although we still have more to cover, it’s important to reflect on and analyze some statistics on your own, and a write-up will help us accomplish this.
 
-The prompt:
-Please describe the basic mechanics of a statistical method we have encountered so far, including a simple explanation of the method, various indicators for the method, and when it should be used. Then, examine the use of the method in a published research paper that we have not seen in class. This should entail an overview of the article (just enough for us to get our head around the idea and variables), why the method was used, and how it supports the article’s conclusion.
+The prompt: Please describe the basic mechanics of a statistical method we have encountered so far, including a simple explanation of the method, various indicators for the method, and when it should be used. Then, examine the use of the method in a published research paper that we have not seen in class. This should entail an overview of the article (just enough for us to get our head around the idea and variables), why the method was used, and how it supports the article’s conclusion.
 
 Requirements:
+
 -   650 word minimum.
+
 -   MLA formatted citations.
+
 -   Due beginning of class Week 8 *7:00PM 3/2*
 
 ## Final Project (45%)
 
 ### Final Project Prompt
+
 Throughout the semester, you’ll have been exposed to many different methods and models used in research. However, the most important part is being able to apply those skills to a new area and show their similarities and differences in different contexts.
 
 For this final project, please write a 1000-word (max) paper and create a 5-10 minute presentation with the following:
 
-1. Please describe the basic mechanics of a statistical method/model we have encountered so far, including a simple mathematical explanation of the method, various indicators for the method, and when it should be used. The method chosen must be different from the method used in the midterm paper. 
-2. Then, examine the use of the method/model in a published research paper that we have not seen in class. This should entail a quick overview of the article’s idea and variables, why the method was used, and how it supports the article’s conclusion. 
-3. Apply this statistical method/model to a new dataset of your own choosing that we have not seen in class, or replicate some statistical methods being used if the dataset in the article chosen is publicly available. Analyze the data and the results.
-
+1.  Please describe the basic mechanics of a statistical method/model we have encountered so far, including a simple mathematical explanation of the method, various indicators for the method, and when it should be used. The method chosen must be different from the method used in the midterm paper.
+2.  Then, examine the use of the method/model in a published research paper that we have not seen in class. This should entail a quick overview of the article’s idea and variables, why the method was used, and how it supports the article’s conclusion.
+3.  Apply this statistical method/model to a new dataset of your own choosing that we have not seen in class, or replicate some statistical methods being used if the dataset in the article chosen is publicly available. Analyze the data and the results.
 
 ::: callout-note
 ## Presentations
