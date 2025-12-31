@@ -45,6 +45,9 @@ The prompt:
 Please describe the basic mechanics of a statistical method we have encountered so far, including a simple explanation of the method, various indicators for the method, and when it should be used. Then, examine the use of the method in a published research paper that we have not seen in class. This should entail an overview of the article (just enough for us to get our head around the idea and variables), why the method was used, and how it supports the article’s conclusion.
 
 Requirements:
+-   650 word minimum.
+-   MLA formatted citations.
+-   Due beginning of class Week 8 *7:00PM 3/2*
 - 650 word minimum.
 - MLA formatted citations.
 - Due beginning of class Week 8.
@@ -62,7 +65,7 @@ For this final project, please write a 1000-word (max) paper and create a 5-10 m
 
 
 ::: callout-note
-## Grace
+## Presentations
 
 There will be two weeks dedicated for presentations. A signup will be sent out after the midterm assignment is due.
 :::

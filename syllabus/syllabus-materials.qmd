@@ -8,7 +8,7 @@ You are not required to purchase a textbook for this class. Who do we think we a
 
 In the **PREPARE** column of the [course schedule](https://sta-house-s26.github.io/), we will note which papers are reading for next class.
 
-Note that [here]("https://docs.google.com/document/d/1lxk2NrPD5AfivDrVW5nmdcdM5A__l1a2ctiHb0u6CKw/edit?tab=t.0") is the signup sheet for the papers we will read each week. 
+Note that [here]("https://docs.google.com/document/d/1lxk2NrPD5AfivDrVW5nmdcdM5A__l1a2ctiHb0u6CKw/edit?usp=sharing") is the signup sheet for the papers we will read each week. 
 
 ## Technology
 
@@ -21,4 +21,4 @@ Tech will be used in most classes. In general, you will need access to a device 
     -   [Ed Discussion](https://edstem.org/us/courses/80868/discussion);
 -   [Zoom](https://duke.zoom.us/) (e.g. for remote office hours).
 
-If access to technology becomes a concern for you during the semester, contact the instructor immediately to discuss options.
+If access to technology becomes a concern for you during the semester, contact the instructors immediately to discuss options.

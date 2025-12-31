@@ -6,29 +6,27 @@ editor:
 
 ## Collaboration
 
-You are *enthusiastically encouraged* to work together and help one another on labs and problem sets. I would much rather you consult your peers than some daft language model. What I ask is that you *acknowledge* your collaborators. So, at the end of each problem in your write-up, leave a comment like "Ursula, Ignatius and I worked together on this problem," or "Ethel explained to me how to do part b." You are not being judged based on your acknowledgements, and there is no penalty for getting "too much" help from others. If you omit acknowledgements, I will assume you did your work solo. If your classmates tell a different story, I will have questions. But otherwise, so long as you are thorough and honest, there will be no problems.
-
-Having said all of that, you should not be crassly handing your solutions to others for them to brainlessly copy. This is plagiarism, and all involved will earn a zero on the assignment and be referred to the conduct office, both sharers and recipients alike. The write-up you submit must be your own work.
+You are *enthusiastically encouraged* to work together and help one another on assignments/discussions.
+However, you should not be crassly handing your solutions to others for them to brainlessly copy. This is plagiarism, and all involved will earn a zero on the assignment and be referred to the conduct office, both sharers and recipients alike. The write-up you submit must be your own work.
 
 ## Use of outside resources, including AI
 
 There are at least two reasons you might seek outside resources:
 
-- *Extra practice or alternative instruction**: Go crazy. Knock yourself out. Have a ball. The internet is saturated with good (and horrible) resources for learning this material, so if you find something that really resonates with you, have at it;
+- *Extra practice/material or alternative instruction**: Go crazy. Knock yourself out. Have a ball. The internet is saturated with good (and horrible) resources for learning this material, so if you find something that really resonates with you, have at it;
 -  *Doing the work for you**: If you ask a language model to generate a summary, and you copy it down and submit it as your own work, that is plagiarism. If we detect it, you will earn a zero for that part of your write-up.
 
-"[Using ChatGPT to complete assignments is like bringing a forklift into the weight room; you will never improve your cognitive fitness that way](https://www.newyorker.com/culture/the-weekend-essay/why-ai-isnt-going-to-make-art)." Furthermore, this course is a half-credit, pass-fail course purely for your own interest. As such, outsourcing all of your *thinking* to an AI will probably end in this entire enterprise being a complete waste of time and energy. To avoid this, I suggest you abstain from using language models to do the reading/thinking for you.
+"[Using ChatGPT to complete assignments is like bringing a forklift into the weight room; you will never improve your cognitive fitness that way](https://www.newyorker.com/culture/the-weekend-essay/why-ai-isnt-going-to-make-art)." Furthermore, this course is a half-credit, pass-fail course purely for your own interest. As such, outsourcing all of your *thinking* to an AI will probably end in this entire enterprise being a complete waste of time and energy. To avoid this, we suggest you abstain from using language models to do the reading/thinking for you.
 
 ## Communication
 
 If you wish to ask content-related questions in writing, please do not do so via e-mail. Instead, please use the course discussion forum [Ed Discussion](https://edstem.org/us/courses/89284/discussion). That way all members of the teaching team can see your question, and all students can benefit from the ensuing discussion. You are also encouraged to answer one another’s questions.
 
-If you have questions about personal matters that may not be appropriate for the public course forum (e.g. illness, accommodations, etc), then please e-mail the instructor directly (john.zito\@duke.edu).
-
+If you have questions about personal matters that may not be appropriate for the public course forum (e.g. illness, accommodations, etc), then please e-mail the instructors directly (cooper.ruffing\@duke.edu & liane.ma\@duke.edu), and/or the course advisor (john.zito\@duke.edu).
 
 ## Late work and extensions
 
-No late work will be accepted unless you request an extension in advance by e-mailing the instructors directly (cooper.ruffing\@duke.edu, liane.ma\@duke.edu, and john.zito\@duke.edu). All reasonable requests will be entertained, but extensions will not be long.
+No late work will be accepted unless you request an extension in advance by e-mailing the instructors directly (cooper.ruffing\@duke.edu and liane.ma\@duke.edu. All reasonable requests will be entertained, but extensions will not be long.
 
 ## Regrade requests
 
@@ -60,6 +58,5 @@ Students can direct any questions or concerns regarding academic integrity to th
 
 In House Course 59-11 specifically...
 
--   If a conduct violation results in a zero on a lab or problem set, that zero will not be dropped;
--   If a conduct violation results in a zero on a midterm, that zero will not be replaced with your final exam score;
--   If we discover that students are sharing and copying assignment solutions, all students involved will be penalized equally, the sharers the same as the recipients.
+-   If a conduct violation results in a zero on an assignment/project, that zero will not be dropped;
+-   If we discover that students are sharing and copying assignment answers, all students involved will be penalized equally, the sharers the same as the recipients.
