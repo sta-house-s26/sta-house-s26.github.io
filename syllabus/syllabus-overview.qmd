@@ -10,7 +10,9 @@ In this course, students will explore the statistical fundamentals necessary for
 
 ## Objectives
 
-In this course, students will:Critically analyze and interpret statistical methods in peer-reviewed research papers
+In this course, students will:
+
+-   Critically analyze and interpret statistical methods in peer-reviewed research papers
 
 -   Explore and apply foundational statistical concepts
 
@@ -27,5 +29,5 @@ In this course, students will:Critically analyze and interpret statistical metho
 ## Meetings
 
 | Meeting | Location | Time | Staff |
-|---------------|------------------|---------------|------------------------|
+|-----------------|-----------------|-----------------|----------------------|
 | Lectures | Old Chem 101 | Mondays 7:00 PM - 8:30 PM | Liane, Cooper, and sometimes Dr. Zito |
